@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xLrs8+EZM84YEd4HyXTA+9mPkppTjVZTZODmtoj0vdKo4JwFDu3h2fGYj4Rd1xts7Ey5DSqng7OHD1LGB2IuEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yaney\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yaney\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
